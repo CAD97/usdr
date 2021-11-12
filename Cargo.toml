@@ -3,4 +3,7 @@ name = "usdr"
 version = "0.0.0"
 edition = "2021"
 
+license = "APACHE-2.0 OR MIT"
+readme = "README.md"
+
 [dependencies]
